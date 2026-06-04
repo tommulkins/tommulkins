@@ -1,27 +1,45 @@
-## 👋 Hi, I'm Tom
+# Hey, I'm Tom 👋
 
-Senior software engineer building at the intersection of **agentic AI** and **robotics**.
+Senior software engineer with 25+ years of production experience, currently building
+in agentic AI. I run [Hermes Agent by Nous Research](https://nousresearch.com) every
+day as my dev environment and testbed, and most of my work lately is in Python and
+TypeScript.
 
-I've spent 25+ years shipping production software — from LAMP stacks to modern JS platforms — with a detour through entrepreneurship running a franchise business from zero to $720k annual revenue. That experience sharpened my product thinking, but I'm a builder at heart. Now I'm channeling everything into the agentic age.
+## What I'm into right now
+- LLM agents and orchestration (LangGraph, MCP, OpenAI SDK)
+- Evaluation systems that actually catch regressions (Braintrust, rubrics, failure mode analysis)
+- Local model workflows and frontier model handoffs
+- Boring, durable engineering practices: guardrails, code quality, life-cycle discipline
+- Tools that turn "I wonder if..." into a working prototype by lunch
 
-**Currently:**
-- 🧠 Upskilling in agentic engineering (LLM orchestration, MCP, multi-agent systems)
-- 🤖 Exploring robotics and industrial automation
-- 📍 Tampa, FL — remote-first, open to occasional travel
-- 🔍 Seeking IC roles in AI/robotics, targeting transition to tech lead
+## The 25-year story
+Started on LAMP because that's what the internet ran on. Stuck around through the
+JS/TS era, Cloudflare, GCP, AWS, and a lot of distributed systems. Decided to
+spend some time running a real business and learning how the world works on the
+operator side. Going back to engineering full time by choice. The robots need
+software, I have opinions about prompt compression, let's talk.
 
-**Recent work:**
-- Built an MCP server for prompt compression (`ttc-compress-mcp`)
-- Experimenting with local LLMs and agent orchestration (`conductor-playground`)
-- Completing: Anthropic CCA · LangChain Academy · ROS2 fundamentals
+Wait, scratch the robots part. I don't have a robotics day job, so I'm not
+shouting about it. I just like building things that think.
 
-**What I bring:**
-- Production engineering discipline from 25 years of shipping
-- Product sense from running a real business
-- High-agency, builder mindset — I learn by doing
+## Stack
+Python · TypeScript · LangGraph · MCP · OpenAI SDK · Cursor · Codex CLI ·
+local and frontier LLMs · Braintrust · Cloudflare
 
-**Let's connect:** [LinkedIn](https://linkedin.com/in/tom-mulkins)
+## A note on the sparse commit history
+Most of my 25 years shipped behind NDAs, private repos on GitHub, GitLab, and
+Bitbucket. I can't link you the actual production code, but I can show you how I
+think and what I build when I'm shipping for fun. See the pinned projects below.
 
----
+## Pinned projects
+- [cursor-hermes-bridge](https://github.com/tommulkins/cursor-hermes-bridge): bridge Hermes Agent to Cursor's composer-2 via ACP
+- [ttc-compress-mcp](https://github.com/tommulkins/ttc-compress-mcp): MCP server for prompt compression using bear-1.2
+- [prod-evals-cookbook](https://github.com/tommulkins/prod-evals-cookbook): production AI evals across 5 stages
+- [fullstack-music](https://github.com/tommulkins/fullstack-music): TypeScript full-stack app
+- [ml.school](https://github.com/tommulkins/ml.school): machine learning workbooks
+- [nodejs-task-manager](https://github.com/tommulkins/nodejs-task-manager): TypeScript backend project
 
-*"The real leverage isn't in writing code — it's in breaking problems down to the point where AI almost never gets it wrong."*
+## Find me
+- LinkedIn: [linkedin.com/in/tommulkins](https://linkedin.com/in/tommulkins)
+- X: [@tom_mulkins](https://x.com/tom_mulkins)
+- Tampa, FL — open to remote
