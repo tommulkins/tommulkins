@@ -35,9 +35,6 @@ think and what I build when I'm shipping for fun. See the pinned projects below.
 - [cursor-hermes-bridge](https://github.com/tommulkins/cursor-hermes-bridge): bridge Hermes Agent to Cursor's composer-2 via ACP
 - [ttc-compress-mcp](https://github.com/tommulkins/ttc-compress-mcp): MCP server for prompt compression using bear-1.2
 - [prod-evals-cookbook](https://github.com/tommulkins/prod-evals-cookbook): production AI evals across 5 stages
-- [fullstack-music](https://github.com/tommulkins/fullstack-music): TypeScript full-stack app
-- [ml.school](https://github.com/tommulkins/ml.school): machine learning workbooks
-- [nodejs-task-manager](https://github.com/tommulkins/nodejs-task-manager): TypeScript backend project
 
 ## Find me
 - LinkedIn: [linkedin.com/in/tommulkins](https://linkedin.com/in/tommulkins)
