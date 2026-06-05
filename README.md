@@ -1,7 +1,7 @@
 # Hey, I'm Tom 👋
 
 Senior software engineer with 25+ years of production experience, currently building
-in agentic AI. I run [Hermes Agent by Nous Research](https://nousresearch.com) every
+in agentic AI. I run [Hermes Agent by Nous Research](https://nousresearch.com)(along with others) every
 day as my dev environment and testbed, and most of my work lately is in Python and
 TypeScript.
 
