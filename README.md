@@ -35,8 +35,7 @@ Docker, AWS, GCP
 ## Domain
 
 PCI DSS Level 1, SOC 2, HIPAA. I've built systems that handle payment
-processing, health records, and regulated data. Compliance isn't
-optional, it's architecture.
+processing, health records, and regulated data.
 
 ## Resume
 
