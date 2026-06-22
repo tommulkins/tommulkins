@@ -23,7 +23,7 @@ Wait, scratch the robots part. I don't have a robotics day job, so I'm not
 shouting about it. I just like building things that think.
 
 ## Stack
-Python · TypeScript · LangGraph · MCP · OpenAI SDK · Cursor · Codex CLI ·
+Python · TypeScript · Go · LangGraph · MCP · OpenAI SDK · Cursor · Codex CLI ·
 local and frontier LLMs · Braintrust · Cloudflare
 
 ## A note on the sparse commit history
