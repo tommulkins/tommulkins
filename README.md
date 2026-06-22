@@ -28,8 +28,15 @@ Most of my career has been helping people go from "we have an idea" to
 
 ## Stack
 
-Python · TypeScript · Go · LangGraph · MCP · OpenAI SDK · Cursor · local
-and frontier LLMs · Braintrust · Cloudflare
+Python, TypeScript, Go, SQL, React, Next.js, Node.js, LangGraph, MCP,
+OpenAI SDK, Cursor, local and frontier LLMs, Braintrust, Cloudflare,
+Docker, AWS, GCP
+
+## Domain
+
+PCI DSS Level 1, SOC 2, HIPAA. I've built systems that handle payment
+processing, health records, and regulated data. Compliance isn't
+optional, it's architecture.
 
 ## A note on the sparse commit history
 
