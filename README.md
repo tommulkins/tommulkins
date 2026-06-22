@@ -17,15 +17,14 @@ TypeScript.
 ## The 25-year story
 
 Started on LAMP because that's what the internet ran on. Spent years in
-fintech and payments — building systems where a bug means someone's money
+fintech and payments, building systems where a bug means someone's money
 is in the wrong place. Moved into product engineering for sales and
 revenue organizations, where the job is turning a product vision into
 something the team can actually ship and iterate on. Stuck around through
 the JS/TS era, Cloudflare, GCP, AWS, and a lot of distributed systems.
 
-I've spent most of my career helping people go from "we have an idea" to
-"it's live and customers love it." That's the thread — the stack changes,
-the mission doesn't.
+Most of my career has been helping people go from "we have an idea" to
+"it's live and customers love it."
 
 ## Stack
 
@@ -49,4 +48,4 @@ projects below.
 
 - LinkedIn: [linkedin.com/in/tommulkins](https://linkedin.com/in/tommulkins)
 - X: [@tom_mulkins](https://x.com/tom_mulkins)
-- Tampa, FL — open to remote
+- Tampa, FL, open to remote
