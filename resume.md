@@ -1,7 +1,7 @@
 # Tom Mulkins
 
 Tampa, FL 33647 | (805) 304-5855 | tom.mulkins@gmail.com
-| linkedin.com/in/tom-mulkins | github.com/tommulkins
+| [LinkedIn](https://linkedin.com/in/tom-mulkins) | [GitHub](https://github.com/tommulkins)
 
 ---
 
@@ -14,7 +14,7 @@ Senior software engineer with 25+ years building production systems across finte
 ## Technical Skills
 
 - **Languages:** Python, TypeScript, JavaScript, Go, PHP, SQL, NoSQL
-- **Frameworks & Tools:** React, Next.js, Node.js, TanStack, Hermes Agent, Cursor, MCP, ACP, Docker
+- **Frameworks & Tools:** Tanstack, React, Next.js, Node.js, TanStack, Hermes Agent, Cursor, MCP, ACP, Docker
 - **Cloud & DevOps:** AWS, GCP, Cloudflare, Cloud Run, CI/CD, GitLab, GitHub Actions, Buildkite
 - **AI Engineering:** LLM evaluation, agentic workflows, code-generation benchmarking, rubric design, prompt engineering
 - **Domain:** PCI DSS Level 1, SOC 2, HIPAA, software architecture, system design
