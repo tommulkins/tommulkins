@@ -1,12 +1,23 @@
 # Hey, I'm Tom 👋
 
+<table>
+<tr>
+<td width="70%">
+
 Senior software engineer with 25+ years of production experience, building
 agentic AI systems and the tooling around them. I run
 [Hermes Agent by Nous Research](https://nousresearch.com) daily as my dev
 environment, alongside Cursor IDE, and most of my work is in Python and
 TypeScript.
 
+</td>
+<td width="30%">
+
 ![cat typing](https://i.imgur.com/bA3Rn7E.gif)
+
+</td>
+</tr>
+</table>
 
 ## What I'm into right now
 
