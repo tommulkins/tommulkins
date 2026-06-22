@@ -73,6 +73,7 @@ Senior software engineer with 25+ years building production systems across finte
 
 **Frontend Masters** (2025–2026)
 
+- Playwright: Automated Testing & AI Workflows (Completed June 2026)
 - AI Engineering Fundamentals (Completed May 2026)
 - AI Agents (Completed April 2026)
 - TypeScript in the Age of AI (Completed May 2026)
