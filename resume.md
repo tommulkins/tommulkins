@@ -1,7 +1,7 @@
 # Tom Mulkins
 
 Tampa, FL 33647 | (805) 304-5855 | tom.mulkins@gmail.com
-linkedin.com/in/tom-mulkins | github.com/tommulkins
+| linkedin.com/in/tom-mulkins | github.com/tommulkins
 
 ---
 
