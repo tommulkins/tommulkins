@@ -6,6 +6,8 @@ agentic AI systems and the tooling around them. I run
 environment, alongside Cursor IDE, and most of my work is in Python and
 TypeScript.
 
+![cat typing](https://i.imgur.com/bA3Rn7E.gif)
+
 ## What I'm into right now
 
 - LLM agents and orchestration (LangGraph, MCP, OpenAI SDK)
