@@ -1,7 +1,6 @@
 # Tom Mulkins
 
-Tampa, FL 33647 | (805) 304-5855 | tom.mulkins@gmail.com
-| [LinkedIn](https://linkedin.com/in/tom-mulkins) | [GitHub](https://github.com/tommulkins)
+Tampa, FL 33647 | [LinkedIn](https://linkedin.com/in/tom-mulkins) | [GitHub](https://github.com/tommulkins)
 
 ---
 
@@ -74,9 +73,9 @@ Senior software engineer with 25+ years building production systems across finte
 **Master.dev** (2025–2026)
 
 - Playwright: Automated Testing & AI Workflows (Completed June 2026)
+- Typescript in the Age of AI (Completed June 2026)
 - AI Engineering Fundamentals (Completed May 2026)
 - AI Agents (Completed April 2026)
-- TypeScript in the Age of AI (Completed May 2026)
 - Intro to MCP, Model Context Protocol (Completed May 2026)
 - AI Fundamentals (Completed April 2026)
 
