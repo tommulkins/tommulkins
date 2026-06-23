@@ -43,7 +43,7 @@ Most of my career has been helping people go from "we have an idea" to
 
 Python, TypeScript, Go, SQL, React, Next.js, Node.js, LangGraph, MCP,
 OpenAI SDK, Cursor, local and frontier LLMs, Braintrust, Cloudflare,
-Docker, AWS, GCP
+Docker, AWS, GCP. Elixir-curious.
 
 ## Domain
 
