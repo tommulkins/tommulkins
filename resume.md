@@ -70,8 +70,9 @@ Senior software engineer with 25+ years building production systems across finte
 
 ## Education & Continuing Education
 
-**Master.dev** (2025–2026)
+**Master.dev**
 
+- Harness Engineering & Agent Orchestration (Completed July 2026)
 - Playwright: Automated Testing & AI Workflows (Completed June 2026)
 - Typescript in the Age of AI (Completed June 2026)
 - AI Engineering Fundamentals (Completed May 2026)
