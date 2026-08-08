@@ -56,7 +56,7 @@ processing, health records, and regulated data.
 
 ## Find me
 
-- LinkedIn: [linkedin.com/in/tommulkins](https://linkedin.com/in/tommulkins)
+- LinkedIn: [linkedin.com/in/tom-mulkins](https://linkedin.com/in/tom-mulkins)
 - X: [@tom_mulkins](https://x.com/tom_mulkins)
 - Discord: [tomrevo.x](https://discord.gg/tomrevo.x)
 - Tampa, FL, open to remote
